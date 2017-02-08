@@ -1,0 +1,31 @@
+(1) Wrangler
+------------
+Web URL: https://portal.xsede.org/tacc-wrangler
+OS: Linux (CentOS)
+Scheduler: SLURM
+Distributed/Parallel File System: Lustre
+Ideal CloudLab Site: Clemson
+
+(2) Greenfield
+----
+Web URL: https://www.psc.edu
+OS: Linux (CentOS)
+Scheduler: PBS
+Distributed/Parallel File System: SLASH2
+Ideal CloudLab Site: Clemson
+
+(3) Cowboy
+---
+Web URL: https://hpcc.okstate.edu
+OS: Linux (CentOS)
+Scheduler: Torque/Maui
+Distributed/Parallel File System: Panasas ActiveStor 12
+Ideal CloudLab Site: Clemson
+
+(4) Beacon
+---
+Web URL: https://www.nics.utk.edu/beacon
+OS: Linux
+Scheduler: Torque/Moab
+Distributed/Parallel File System: Access to three (NFS, Lustre, Local SSD)
+Ideal CloudLab Site: Clemson
